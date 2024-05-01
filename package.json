@@ -1,12 +1,14 @@
 {
-  "name": "autoHealPlaywright",
+  "name": "autoheal-playwright",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
   },
-  "bin": "./index.js",
+  "bin": {
+    "autoheal-playwright": "index.js"
+  },
   "type": "module",
   "author": "jahenaod",
   "engines": {

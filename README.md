@@ -14,14 +14,14 @@ Proyecto aun en etapa de desarrollo y experimentacion
 
 Mediante el administrador de paquetes de node utilizamos el siguente comando
 
-    npm install autoHealPlaywright
+    npm install autoheal-playwright
 
 ## Como ejecutar 
 Debes declarar tu API Key del modelo que desees en la terminal antes de ejecutar
 
 El comando de ejecucion es el siguente, recuerda activar el autoheal para aprovechar el beneficio del autocurado
 
-    npx autoHealPlaywright --testFile=TuArchivoTest.ts --model=gpt-3.5-turbo --autoheal=true
+    npx autoheal-playwright --testFile=TuArchivoTest.ts --model=gpt-3.5-turbo --autoheal=true
 
 ### Explicacion del comando de ejecucion
 
