@@ -1,5 +1,5 @@
 {
-  "name": "playwright-ai",
+  "name": "autoHealPlaywright",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "bin": "./index.js",
   "type": "module",
-  "author": "",
+  "author": "jahenaod",
   "engines": {
     "node": ">=20"
   },
